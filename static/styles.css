@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+.title{
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.button{
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.result{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
